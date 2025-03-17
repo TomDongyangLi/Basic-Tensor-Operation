@@ -2,13 +2,14 @@
 
 Main Goal: Build my own library of tensor tools Compare all the code I have with the packages like tensorly, TensorNetwork, ttpy, t3f, etc; Improve my own coding skill in the filed of Tensor
 
-Objects: 1. Tensor Decomposition 
+Objects: 
+
+- Tensor Decomposition 
     a. TensorTrain 
     b. Tucker 
     c. CP 
     d. More
-
-2. Tensor Operation
+- Tensor Operation
     a. unfolding
     b. 
 

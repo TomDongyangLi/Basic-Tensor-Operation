@@ -13,7 +13,7 @@ Objects:
     - unfolding
     - Mode n Product 
 
-What to compare: 
+- What to compare: 
     - Speed 
     - Accuracy 
     - Simplicity 

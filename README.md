@@ -5,16 +5,16 @@ Main Goal: Build my own library of tensor tools Compare all the code I have with
 Objects: 
 
 - Tensor Decomposition 
-    a. TensorTrain 
-    b. Tucker 
-    c. CP 
-    d. More
+    - TensorTrain
+    - Tucker
+    - CP
+    - More
 - Tensor Operation
-    a. unfolding
-    b. 
+    - unfolding
+    - Mode n Product 
 
 What to compare: 
-    1. Speed 
-    2. Accuracy 
-    3. Simplicity 
-    4. convention
+    - Speed 
+    - Accuracy 
+    - Simplicity 
+    - convention
